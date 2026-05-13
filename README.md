@@ -1,12 +1,14 @@
 # HydroJEPA
-<a href="https://doi.org/10.5281/zenodo.20170559"><img src="https://zenodo.org/badge/1238040171.svg" alt="DOI"></a>
 
 **Mini-JEPA Foundation Model Fleet Enables Agentic Hydrologic Intelligence**
 *Mashrekur Rahman — Dartmouth College*
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20170560.svg)](https://doi.org/10.5281/zenodo.20170560)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Code accompanying the manuscript submitted to *Remote Sensing Applications: Society and Environment*. The work introduces a fleet of five small, sensor-specialized Joint Embedding Predictive Architecture (JEPA) foundation models pretrained on Google Earth Engine satellite products, paired with a routing LLM agent that consults each model when its sensor physics matches the hydrologic question.
 
-The trained checkpoints, the 9,704-patch corpus, per-modality FAISS indices, and the full LLM evaluation outputs (responses, judge scores, routing logs) are archived on Zenodo: **[DOI to be inserted on acceptance]**.
+The trained checkpoints, the 9,704-patch corpus, per-modality FAISS indices, and the full LLM evaluation outputs (responses, judge scores, routing logs) are archived on Zenodo: **[10.5281/zenodo.20170560](https://doi.org/10.5281/zenodo.20170560)**.
 
 ---
 
@@ -277,11 +279,7 @@ If you use this code or the trained checkpoints, please cite the paper:
 
 A `CITATION.cff` is provided at the repository root for citation-management tools.
 
-The two prior AlphaEarth studies that this paper extends:
-
-> Rahman, M. (2026). Physically interpretable AlphaEarth foundation model embeddings enable LLM-based land surface intelligence. *arXiv:2602.XXXXX*.
-
-> Rahman, M., Barrett, S. J., Last, C. (2026). Characterizing AlphaEarth embedding geometry for agentic environmental reasoning. *arXiv:2604.XXXXX*.
+The two prior AlphaEarth studies whose methodology this paper extends are cited in the manuscript's bibliography. Refer to the paper's reference list for full publication details.
 
 ---
 
