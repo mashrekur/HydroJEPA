@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "HydroJEPA — Mini-JEPA Foundation Model Fleet for Agentic Hydrologic Intelligence"
+message: "If you use this software, please cite the accompanying paper."
+type: software
+authors:
+  - family-names: "Rahman"
+    given-names: "Mashrekur"
+    affiliation: "Dartmouth College"
+    email: "mashrekur.rahman@dartmouth.edu"
+repository-code: "https://github.com/mashrekur/HydroJEPA"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Mini-JEPA Foundation Model Fleet Enables Agentic Hydrologic Intelligence"
+  authors:
+    - family-names: "Rahman"
+      given-names: "Mashrekur"
+      affiliation: "Dartmouth College"
+  year: 2026
+  journal: "Remote Sensing Applications: Society and Environment"
