@@ -1,4 +1,5 @@
 # HydroJEPA
+<a href="https://doi.org/10.5281/zenodo.20170559"><img src="https://zenodo.org/badge/1238040171.svg" alt="DOI"></a>
 
 **Mini-JEPA Foundation Model Fleet Enables Agentic Hydrologic Intelligence**
 *Mashrekur Rahman — Dartmouth College*
