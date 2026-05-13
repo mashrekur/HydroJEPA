@@ -1,0 +1,36 @@
+{
+    "title": "HydroJEPA: Mini-JEPA Foundation Model Fleet Enables Agentic Hydrologic Intelligence",
+    "description": "Code accompanying the manuscript 'Mini-JEPA Foundation Model Fleet Enables Agentic Hydrologic Intelligence' submitted to Remote Sensing Applications: Society and Environment. Implements a fleet of five small sensor-specialized JEPA foundation models pretrained on Google Earth Engine satellite products (Sentinel-2 optical, Sentinel-1 SAR, MODIS thermal, Sentinel-2 phenology, and SRTM + SoilGrids topo-soil), with per-modality interpretability/geometry/complementarity evaluation and an agentic routing layer for hydrologic question answering.",
+    "creators": [
+        {
+            "name": "Rahman, Mashrekur",
+            "affiliation": "Dartmouth College",
+            "orcid": "0000-0002-2152-8379"
+        }
+    ],
+    "keywords": [
+        "JEPA",
+        "geospatial foundation models",
+        "sensor specialization",
+        "embedding interpretability",
+        "agentic retrieval",
+        "hydrologic intelligence",
+        "remote sensing",
+        "self-supervised learning"
+    ],
+    "license": "MIT",
+    "upload_type": "software",
+    "access_right": "open",
+    "related_identifiers": [
+        {
+            "identifier": "10.5281/zenodo.18600373",
+            "relation": "isSupplementTo",
+            "scheme": "doi"
+        },
+        {
+            "identifier": "10.5281/zenodo.19667254",
+            "relation": "isSupplementTo",
+            "scheme": "doi"
+        }
+    ]
+}
